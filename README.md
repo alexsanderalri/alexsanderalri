@@ -8,7 +8,7 @@ Currently, my main focus is on **Back-end Development** and **Cyber Security**, 
 
 ### 🚀 ALRI Group
 
-I am the **Creator and Founder of [ALRI Group](https://github.com/ALRIGroup/ARGroup)**. What started as an idea and a dream back in 2020 is now becoming a reality. We are actively transitioning into a company that will operate across multiple specialized sub-areas, including:
+I am the **Creator and Founder of [ALRI Group](https://github.com/alrigroup/ARGroup)**. What started as an idea and a dream back in 2020 is now becoming a reality. We are actively transitioning into a company that will operate across multiple specialized sub-areas, including:
 * 🛡️ **Cyber Security**
 * 🎮 **Game Development**
 * 💻 **Front-end & Back-end Development**
