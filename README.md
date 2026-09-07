@@ -12,13 +12,6 @@
   </a>
 
   <p>Computer Science student, Developer, and Cyber Security Researcher from Brazil 🇧🇷</p>
-
-  <br>
-
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=alexsanderalri&label=Profile%20Views&color=38BDF8&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <br>
-  <sub>Counting views since September 7, 2026</sub>
 </div>
 
 ---
@@ -72,8 +65,16 @@
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=alexsanderalri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexsanderalri&theme=tokyonight&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alexsanderalri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=alexsanderalri&label=Profile%20Views&color=38BDF8&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <br>
+  <sub>Counting views since September 7, 2026</sub>
 </div>
 
 ---

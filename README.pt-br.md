@@ -12,13 +12,6 @@
   </a>
 
   <p>Estudante de Ciência da Computação, Desenvolvedor e Pesquisador de Segurança da Informação 🇧🇷</p>
-
-  <br>
-
-  <!-- Contador de Visualizações -->
-  <img src="https://komarev.com/ghpvc/?username=alexsanderalri&label=Visualizacoes&color=38BDF8&style=for-the-badge&logo=eye" alt="Visualizações" />
-  <br>
-  <sub>Contando visualizações a partir de hoje</sub>
 </div>
 
 ---
@@ -72,8 +65,16 @@
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=alexsanderalri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=pt-br" alt="GitHub stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexsanderalri&theme=tokyonight&layout=compact&hide_border=true&locale=pt-br" alt="Top languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alexsanderalri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=pt-br" alt="GitHub stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Contador de Visualizações -->
+  <img src="https://komarev.com/ghpvc/?username=alexsanderalri&label=Visualizacoes&color=38BDF8&style=for-the-badge&logo=eye" alt="Visualizações" />
+  <br>
+  <sub>Contando visualizações a partir de hoje</sub>
 </div>
 
 ---
