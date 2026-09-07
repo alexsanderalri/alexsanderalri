@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65"/></td>
-    <td><img src="https://skillicons.dev/icons?i=android" alt="Android" width="65" height="65"/></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="Android" width="65" height="65"/></td>
     <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65"/></td>
     <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/></td>
   </tr>
