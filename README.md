@@ -1,6 +1,25 @@
-# Hi there! 👋 I'm Alexsander (Alex AR) 
+<div align="right">
+  <strong>Languages:</strong>
+  <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-38BDF8?style=flat-square&logo=googletranslate&logoColor=white" /></a>
+  <a href="./README.pt-br.md"><img alt="Português" src="https://img.shields.io/badge/Português-1e293b?style=flat-square&logo=googletranslate&logoColor=white" /></a>
+</div>
 
-Computer Science student, Developer, and Cyber Security Researcher from Brazil 🇧🇷.
+<div align="center">
+  <h1>Hi there! 👋 I'm Alexsander (Alex AR)</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Cyber+Security+Researcher;Low-Level+%26+Systems+Dev;Full+Stack+Developer;Reverse+Engineering+%26+Mobile+Root;Founder+%40+ALRI+Group" alt="Typing SVG" />
+  </a>
+
+  <p>Computer Science student, Developer, and Cyber Security Researcher from Brazil 🇧🇷</p>
+
+  <br>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=alexsanderalri&label=Profile%20Views&color=38BDF8&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <br>
+  <sub>Counting views since September 7, 2026</sub>
+</div>
 
 ---
 
@@ -18,7 +37,7 @@ Computer Science student, Developer, and Cyber Security Researcher from Brazil �
 
 ### 🛠️ Technologies & Stack
 
-**Languages:**
+**Languages:**  
 ![Assembly](https://img.shields.io/badge/Assembly-%234D4D4D.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +47,7 @@ Computer Science student, Developer, and Cyber Security Researcher from Brazil �
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Web & Ecosystem:**
+**Web & Ecosystem:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -37,16 +56,55 @@ Computer Science student, Developer, and Cyber Security Researcher from Brazil �
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Environments & Tools:**
+**Environments & Tools:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alexsanderalri&theme=tokyonight&hide_border=true&locale=en" alt="GitHub streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexsanderalri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanderalri&theme=tokyonight&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</div>
+
+---
+
+### 🧊 3D Contribution Landscape
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%" />
+</div>
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexsanderalri/alexsanderalri/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexsanderalri/alexsanderalri/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/alexsanderalri/alexsanderalri/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### 🌐 Connect with Me
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexsanderalri)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alexsanderalri)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alexsanderalri)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsanderalri@alrigroup.com)
+
+</div>
