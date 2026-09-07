@@ -1,7 +1,6 @@
 <div align="right">
-  <strong>Languages:</strong>
-  <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-38BDF8?style=flat-square&logo=googletranslate&logoColor=white" /></a>
-  <a href="./README.pt-br.md"><img alt="Português" src="https://img.shields.io/badge/Português-1e293b?style=flat-square&logo=googletranslate&logoColor=white" /></a>
+  <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8%20English-38BDF8?style=for-the-badge" /></a>
+  <a href="./README.pt-br.md"><img alt="Português" src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20Portugu%C3%AAs-1e293b?style=for-the-badge" /></a>
 </div>
 
 <div align="center">
@@ -25,6 +24,7 @@
 * ⚙️ **System Development:** Custom tech solutions from software architecture down to hardware-level integration.
 * 🎮 **Game Development:** Game logic, mechanics, and engine-level development.
 * 🛠️ **Modding & Reverse Engineering:** Low-level modifications, Samsung/Android root solutions, and security analysis.
+* 🗣️ **Languages:** Portuguese (Native), English (C2 / Fluent).
 
 ---
 
