@@ -30,29 +30,42 @@
 
 ### 🛠️ Technologies & Stack
 
-**Languages:**  
-![Assembly](https://img.shields.io/badge/Assembly-%234D4D4D.svg?style=for-the-badge&logo=assembly&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p><strong>Languages:</strong></p>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" alt="Assembly" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/></td>
+  </tr>
+</table>
 
-**Web & Ecosystem:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p><strong>Web & Ecosystem:</strong></p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65" height="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next JS" width="65" height="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65"/></td>
+  </tr>
+</table>
 
-**Environments & Tools:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p><strong>Environments & Tools:</strong></p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=android" alt="Android" width="65" height="65"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/></td>
+  </tr>
+</table>
 
 ---
 
