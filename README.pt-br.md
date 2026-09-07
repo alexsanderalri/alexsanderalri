@@ -1,13 +1,13 @@
 <div align="right">
   <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8%20English-1e293b?style=for-the-badge" /></a>
-  <a href="./README.pt-br.md"><img alt="Português" src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20Portugu%C3%AAs-EF4444?style=for-the-badge" /></a>
+  <a href="./README.pt-br.md"><img alt="Português" src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20Portugu%C3%AAs-FF0000?style=for-the-badge" /></a>
 </div>
 
 <div align="center">
   <h1>Olá! 👋 Eu sou o Alexsander (Alex AR)</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack;Fundador+do+ALRI+GROUP;Seguran%C3%A7a+Cibern%C3%A9tica;Desenvolvedor+de+Sistemas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack;Fundador+do+ALRI+GROUP;Seguran%C3%A7a+Cibern%C3%A9tica;Desenvolvedor+de+Sistemas" alt="Typing SVG" />
   </a>
 
   <p>Estudante de Ciência da Computação, Desenvolvedor e Pesquisador de Segurança da Informação 🇧🇷</p>
@@ -72,20 +72,20 @@
 ### 📊 Atividade no GitHub & Métricas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alexsanderalri&background=0D1117&border=EF4444&stroke=30363D&ring=EF4444&fire=EF4444&currStreakNum=EF4444&sideNums=F0F6FC&currStreakLabel=EF4444&sideLabels=8B949E&dates=8B949E&hide_border=true&locale=pt_BR" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=alexsanderalri&background=0D1117&border=FF0000&stroke=30363D&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=F0F6FC&currStreakLabel=FF0000&sideLabels=8B949E&dates=8B949E&hide_border=true&locale=pt_BR" alt="GitHub streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=alexsanderalri&bg_color=0D1117&title_color=EF4444&text_color=F0F6FC&icon_color=EF4444&border_color=EF4444&hide_border=true&count_private=true&locale=pt-br" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alexsanderalri&bg_color=0D1117&title_color=FF0000&text_color=F0F6FC&icon_color=FF0000&border_color=FF0000&hide_border=true&count_private=true&locale=pt-br" alt="GitHub stats" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- Contador de Visualizações -->
-  <img src="https://komarev.com/ghpvc/?username=alexsanderalri&label=Visualizacoes&color=EF4444&style=for-the-badge&logo=eye" alt="Visualizações" />
+  <img src="https://komarev.com/ghpvc/?username=alexsanderalri&label=Visualizacoes&color=FF0000&style=for-the-badge&logo=eye" alt="Visualizações" />
   <br>
   <sub>Contando visualizações a partir de hoje</sub>
 </div>

@@ -18,6 +18,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Apply Pure Red Theme to 3D Contribution Profile
+        run: |
+          python3 -c "
+          import re
+          with open('profile-3d-contrib/profile-night-view.svg', 'r') as f:
+              content = f.read()
+          def recolor_rgb(match):
+              r, g, b = int(match.group(1)), int(match.group(2)), int(match.group(3))
+              if b > r:
+                  new_r = min(255, int(b * 1.05))
+                  new_g = int(g * 0.1)
+                  new_b = int(r * 0.1)
+                  return f'rgb({new_r}, {new_g}, {new_b})'
+              return match.group(0)
+          new_content = re.sub(r'rgb\((\d+),\s*(\d+),\s*(\d+)\)', recolor_rgb, content)
+          new_content = new_content.replace('#f34b7d', '#ff0000').replace('#eeeeff', '#f0f6fc').replace('rgb(255,200,55)', 'rgb(255, 0, 0)')
+          with open('profile-3d-contrib/profile-night-view.svg', 'w') as f:
+              f.write(new_content)
+          "
       - name: Commit & Push changes
         run: |
           git config user.name alexsanderalri
