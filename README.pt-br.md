@@ -18,9 +18,10 @@
 ### 🚀 Sobre Mim & Áreas de Atuação
 
 * 🏢 **Fundador & Criador:** [ALRI Group](https://github.com/alrigroup/)
+* 🌐 **Portfólio & Projetos:** [alexsanderalri.alrigroup.com](https://alexsanderalri.alrigroup.com/)
 * ⚙️ **Desenvolvimento Back-end:** Sistemas escaláveis, APIs e arquiteturas robustas.
 * 🛡️ **Segurança Cibernética:** Consultor de segurança & Bug Bounty hunter (+50 vulnerabilidades reportadas).
-* 🌐 **Desenvolvimento Front-end & Cliente:** Aplicações web e softwares nativos.
+* 💻 **Desenvolvimento Front-end & Cliente:** Aplicações web e softwares nativos.
 * ⚙️ **Desenvolvimento de Sistemas:** Soluções personalizadas da arquitetura de software até integração em nível de hardware.
 * 🎮 **Desenvolvimento de Jogos:** Lógica de gameplay, mecânicas e nível de engine.
 * 🛠️ **Modding & Engenharia Reversa:** Modificações de baixo nível, soluções root Samsung/Android e análise de segurança.
@@ -116,6 +117,7 @@
 
 <div align="center">
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexsanderalri.alrigroup.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexsanderalri)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alexsanderalri)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alexsanderalri)

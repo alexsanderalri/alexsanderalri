@@ -18,9 +18,10 @@
 ### 🚀 About Me & What I Do
 
 * 🏢 **Founder & Creator:** [ALRI Group](https://github.com/alrigroup/)
+* 🌐 **Portfolio & Projects:** [alexsanderalri.alrigroup.com](https://alexsanderalri.alrigroup.com/)
 * ⚙️ **Back-end Development:** Scalable systems, APIs, and robust architectures.
 * 🛡️ **Cyber Security:** Security consultant & Bug Bounty hunter (+50 vulnerabilities reported).
-* 🌐 **Front-end & Client Development:** Web applications and native software.
+* 💻 **Front-end & Client Development:** Web applications and native software.
 * ⚙️ **System Development:** Custom tech solutions from software architecture down to hardware-level integration.
 * 🎮 **Game Development:** Game logic, mechanics, and engine-level development.
 * 🛠️ **Modding & Reverse Engineering:** Low-level modifications, Samsung/Android root solutions, and security analysis.
@@ -116,6 +117,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexsanderalri.alrigroup.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexsanderalri)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alexsanderalri)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alexsanderalri)
